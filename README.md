@@ -2,7 +2,7 @@
 
 This repository contains the reproducible R workflow for the manuscript:
 
-> Single-cell transcriptomics identifies a mitochondrial energy-related transcriptional signature in mature oligodendrocytes in an aged mouse model of postoperative neurocognitive disorder
+> Single-cell transcriptomics reveals a mitochondrial energy-related transcriptional signature in mature oligodendrocytes after surgery in aged mice
 
 ## Public datasets
 
